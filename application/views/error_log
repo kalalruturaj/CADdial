@@ -1,0 +1,2 @@
+[01-Sep-2015 06:04:29 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/dphilip/public_html/avyuktacrm.com/login/views/login.php on line 2
+[01-Sep-2015 06:08:34 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/dphilip/public_html/avyuktacrm.com/login/views/login.php on line 2
